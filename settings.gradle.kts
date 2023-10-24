@@ -1,3 +1,3 @@
-rootProject.name = "java-library-template"
+rootProject.name = "kafka-streams-cassandra-state-store"
 
-include("java-library-template")
+include("kafka-streams-cassandra-state-store")
